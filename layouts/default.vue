@@ -27,8 +27,14 @@
   }
   &__body {
     height: 100%;
-    padding: 30px;
-    padding-left: 350px;
+    padding: 30px 10vw;
+    margin-left: 350px;
+    @media only screen and (max-width: 1600px) {
+      padding: 30px 5vw;
+    }
+    @media only screen and (max-width: 1200px) {
+      padding: 30px 12px;
+    }
   }
 }
 </style>
