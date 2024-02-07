@@ -40,7 +40,7 @@ defineProps<{
     display: flex;
     gap: 12px;
     flex-direction: row;
-    justify-content: end;
+    justify-content: flex-end;
     .language-item-circle {
       width: 12px;
       height: 12px;
