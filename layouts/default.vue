@@ -6,6 +6,9 @@
     <section class="dev-layout__body">
       <slot name="body"></slot>
     </section>
+    <section class="div-layout__footer">
+      <slot name="footer"></slot>
+    </section>
   </div>
 </template>
 

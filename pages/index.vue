@@ -10,5 +10,8 @@
       <Projects/>
       <Education/>
     </template>
+    <template #footer>
+      <CvFooter/>
+    </template>
   </NuxtLayout>
 </template>
