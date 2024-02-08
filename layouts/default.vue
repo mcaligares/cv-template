@@ -36,5 +36,16 @@
       padding: 30px 12px;
     }
   }
+
+  @media only screen and (max-width: $media-mobile) {
+    flex-direction: column;
+    &__side {
+      width: calc(100% - 60px);
+      position: unset;
+    }
+    &__body {
+      margin-left: 0;
+    }
+  }
 }
 </style>

@@ -3,9 +3,11 @@ import { languages } from '../config';
 </script>
 
 <template>
-  <CvTitle title="Language"/>
-  <LanguageItem
-    v-for="language in languages"
-    :item="language"
-  />
+  <div class="language">
+    <CvTitle title="Language"/>
+    <LanguageItem
+      v-for="language in languages"
+      :item="language"
+    />
+  </div>
 </template>

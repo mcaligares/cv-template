@@ -1,19 +1,5 @@
 <template>
-  <NuxtLayout>
-    <template #side>
-      <Avatar/>
-      <Contact/>
-      <Skills/>
-      <Language/>
-    </template>
-    <template #body>
-      <CvHeader/>
-      <CvSummary/>
-      <Experience/>
-      <Projects/>
-      <Education/>
-    </template>
-  </NuxtLayout>
+  <NuxtPage/>
 </template>
 
 <style lang="scss">
