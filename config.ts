@@ -15,15 +15,15 @@ Agregado a estos perfiles cuento con experiencia utilizando metodologías ágile
 `;
 
 export const experience = [
-  { start: new Date('01/08/2022'), end: new Date('01/12/2023'), name: 'senior frontend developer', company: 'NewCombin', summary: 'Desarrollo de editor de videos del lado del cliente usando Vue + Vite + Canvas' },
-  { start: new Date('01/09/2021'), end: new Date('01/01/2022'), name: 'senior frontend developer', company: 'NewCombin', summary: 'Desarrollo de un NFT marketplace usando VueJS en un proyecto multi-repo' },
-  { start: new Date('01/06/2020'), end: new Date('01/04/2021'), name: 'senior mobile developer', company: 'NewCombin', summary: 'Desarrollo de aplicaciones mobile para Android y iOS usando Cordova + Ionic + Vue' },
-  { start: new Date('01/09/2018'), end: new Date('01/02/2022'), name: 'senior frontend developer', company: 'GOIAR', summary: 'Desarrollo de varios sitios web usando React + Nuxt y aplicaciones mobiles usando Ionic y ReactNative' },
-  { start: new Date('01/07/2018'), end: new Date('01/07/2019'), name: 'senior frontend developer', company: 'RescoIO', summary: 'Desarrollo de plataforma usando Vue + Atomic Design' },
-  { start: new Date('01/01/2017'), end: new Date('01/11/2017'), name: 'full stack developer', company: 'Kerbun', summary: 'Desarrollo de servicio que utiliza buckets y NFC para enviar y recibir archivos de forma segura y anónima, utilizando Java + Spring + Node + C# + .Net' },
+  { start: new Date('08/01/2022'), end: new Date('12/01/2023'), name: 'senior frontend developer', company: 'NewCombin', summary: 'Desarrollo de editor de videos del lado del cliente usando Vue + Vite + Canvas' },
+  { start: new Date('09/01/2021'), end: new Date('01/01/2022'), name: 'senior frontend developer', company: 'NewCombin', summary: 'Desarrollo de un NFT marketplace usando VueJS en un proyecto multi-repo' },
+  { start: new Date('06/01/2020'), end: new Date('04/01/2021'), name: 'senior mobile developer', company: 'NewCombin', summary: 'Desarrollo de aplicaciones mobile para Android y iOS usando Cordova + Ionic + Vue' },
+  { start: new Date('09/01/2018'), end: new Date('02/01/2022'), name: 'senior frontend developer', company: 'GOIAR', summary: 'Desarrollo de varios sitios web usando React + Nuxt y aplicaciones mobiles usando Ionic y ReactNative' },
+  { start: new Date('07/01/2018'), end: new Date('07/01/2019'), name: 'senior frontend developer', company: 'RescoIO', summary: 'Desarrollo de plataforma usando Vue + Atomic Design' },
+  { start: new Date('01/01/2017'), end: new Date('11/01/2017'), name: 'full stack developer', company: 'Kerbun', summary: 'Desarrollo de servicio que utiliza buckets y NFC para enviar y recibir archivos de forma segura y anónima, utilizando Java + Spring + Node + C# + .Net' },
   { start: new Date('01/01/2015'), end: new Date('01/01/2017'), name: 'mobile developer', company: 'Init Services', summary: 'Desarrollo de aplicación mobile orientado a la salud con trackeo de actividad fisica utilizando Cordova + Ionic + Angular + Groovy + Grails' },
   { start: new Date('01/01/2014'), end: new Date('01/01/2015'), name: 'full stack developer', company: 'Init Services', summary: 'Desarrollo de plataformas de e-commerce utilizando Java + Sprint + Angular y en otros Groovy + Grails + Angular' },
-  { start: new Date('01/06/2012'), end: new Date('01/01/2014'), name: 'java developer', company: 'Init Services', summary: 'Mantenimiento de servicios utilizando tecnologías como Java + Bash Script + PL/SQL + APNs + GCM' },
+  { start: new Date('06/01/2012'), end: new Date('01/01/2014'), name: 'java developer', company: 'Init Services', summary: 'Mantenimiento de servicios utilizando tecnologías como Java + Bash Script + PL/SQL + APNs + GCM' },
 ];
 
 export const projects = [
